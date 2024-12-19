@@ -1,4 +1,4 @@
-# Exp no:4
+# Exp no:
 
 # Date:
 
@@ -24,6 +24,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
+![278802768-558bdff0-948e-4244-960f-3cc482dffa6c](https://github.com/user-attachments/assets/8c691a16-707a-4cc4-83d9-1896506f1ac4)
 
  
 ## Program
